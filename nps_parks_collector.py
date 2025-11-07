@@ -23,10 +23,10 @@ from google.auth import default
 # ====================================================================
 
 # PASTE YOUR NPS API KEY HERE (get one from: https://www.nps.gov/subjects/developer/get-started.htm)
-API_KEY = "PASTE_YOUR_NPS_API_KEY_HERE"
+API_KEY = "i0XgtcOuctDbL6U5IvI6vheVpXqIgtgq1CRGHKrF"
 
 # PASTE YOUR GOOGLE SHEET URL HERE (make sure you have edit access)
-SHEET_URL = "PASTE_YOUR_GOOGLE_SHEET_URL_HERE"
+SHEET_URL = "https://docs.google.com/spreadsheets/d/16S28nGRGDN7iCK12VHbKYfNkfh-4lJJjbi2ijCpHyAs/edit?usp=sharing"
 
 # ====================================================================
 # AUTHENTICATION
